@@ -1,3 +1,8 @@
+[B]Version 1.8.28[/B]
+
+- Updated: xvideos
+- Fixed: url list
+
 [B]Version 1.8.27[/B]
 
 - Updated: xhamster
